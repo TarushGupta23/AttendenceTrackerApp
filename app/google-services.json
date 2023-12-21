@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603609599584",
+    "project_id": "gdsc-attendencetracker",
+    "storage_bucket": "gdsc-attendencetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603609599584:android:8daabecafb1647c9c7fd05",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_attendencetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgc5KmLuMLjox-bqSHtjpJe6BXvTHQbR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
