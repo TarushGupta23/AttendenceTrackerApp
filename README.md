@@ -1,5 +1,5 @@
 ######
-<div align = center><img src="https://raw.githubusercontent.com/TarushGupta23/storage/main/gdscbanner.png?token=GHSAT0AAAAAACIOGP7ALN6ZX73PIY6YURUMZMECQLA"><br><br>
+<div align = center><img src="https://github.com/TarushGupta23/storage/blob/main/gdscbanner.png"><br><br>
 
 &ensp;[<kbd> <br> Overview <br> </kbd>](#Overview)&ensp;
 &ensp;[<kbd> <br> Features <br> </kbd>](#Features)&ensp;
@@ -14,8 +14,8 @@
 Welcome to the Attendance Tracker App, a project created under `GDSC (Google Developer Student Clubs)`. This app is designed to help users keep track of their attendance for multiple subjects conveniently. It incorporates features such as subject management, class attendance, and missed class tracking. Additionally, the app includes authentication functionalities (login and signup) and utilizes Firebase for database connectivity.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TarushGupta23/storage/main/GDSC_app_img2.png?token=GHSAT0AAAAAACIOGP7AL3SP23SWOW7PXKGWZMEDI2Q" alt="GDSC Banner" style="width:400px;">
-  <img src="https://raw.githubusercontent.com/TarushGupta23/storage/main/GDSC_app_img1.png?token=GHSAT0AAAAAACIOGP7BGZMSCEMAIDNQBJPWZMEDIJA" alt="GDSC Banner" style="width:400px;">
+  <img src="https://github.com/TarushGupta23/storage/blob/main/GDSC_app_img1.png" alt="GDSC Banner" style="width:400px;">
+  <img src="https://github.com/TarushGupta23/storage/blob/main/GDSC_app_img2.png" alt="GDSC Banner" style="width:400px;">
 </div>
  
 
